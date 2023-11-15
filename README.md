@@ -1,1 +1,1 @@
-# Undercover Numbers: Infiltration Protocol [UNIP]
+# Undercover Numbers: Infiltration Protocol (UNIP)
