@@ -32,6 +32,7 @@ If you get it wrong, you might receive a message indicating that you entered the
 - Type `code` at Developer Command Prompt terminal
 <img src="./resources/images/CodeCommand.png" alt="Code Command Image" />
 
+- With Visual Studio Code open, follow the steps below
    
   <div align="left">
     <img src="./resources/tutorial.gif" alt="gif tutorial" />
