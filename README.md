@@ -8,7 +8,10 @@ Open Visual Studio Code from Developer Command Prompt
     <img src="./resources/images/DeveloperCommandPrompt.png" alt="Developer Command Prompt Image" />
 </div>
 Type code at terminal Developer Command Prompt
-
+<br>
+   <div align="left">
+    <img src="./resources/images/CodeCommand.png" alt="Code Command Image" />
+</div>
    
   <div align="left">
     <img src="./resources/tutorial.gif" alt="gif tutorial" />
