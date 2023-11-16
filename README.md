@@ -1,5 +1,6 @@
 # Undercover Numbers: Infiltration Protocol (UNIP)
-### How the game works
+
+## How the Game Works
 
 ## Initializing the Game
 
