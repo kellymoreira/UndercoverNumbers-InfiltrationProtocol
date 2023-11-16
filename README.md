@@ -3,13 +3,11 @@
 
 ## Initializing the Game
 
-Open Visual Studio Code from Developer Command Prompt 
-<br><br>
+- Open Visual Studio Code from Developer Command Prompt 
 <img src="./resources/images/DeveloperCommandPrompt.png" alt="Developer Command Prompt Image" />
 
 
-Type code at terminal Developer Command Prompt
-<br><br>
+- Type `code` at terminal Developer Command Prompt
 <img src="./resources/images/CodeCommand.png" alt="Code Command Image" />
 
    
