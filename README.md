@@ -4,7 +4,7 @@
 1. Open **Visual Studio Code** from **Developer Command Prompt**
    
   <div align="left">
-    <img src="./Archives/DeveloperCommandPrompt.png" alt="image" />
+    <img src="./resources/tutorial.gif" alt="gif tutorial" />
 </div>
 
 ### Tutorial in Video
