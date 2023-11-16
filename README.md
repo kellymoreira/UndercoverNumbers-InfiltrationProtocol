@@ -38,3 +38,6 @@ If you get it wrong, you might receive a message indicating that you entered the
     <img src="./resources/tutorial.gif" alt="gif tutorial" />
 </div>
 
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kellymoreira/UndercoverNumbers-InfiltrationProtocol&right_color=pink">
+</p>
