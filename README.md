@@ -3,7 +3,7 @@
 ### Initializing the game
 1. Open **Visual Studio Code** from **Developer Command Prompt**
    <div align="left">
-    <img src="./resources/images/" alt="gif tutorial" />
+    <img src="./resources/images/DeveloperCommandPrompt.png" alt="Developer Command Prompt Image" />
 </div>
    
   <div align="left">
